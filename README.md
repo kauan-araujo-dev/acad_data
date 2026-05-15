@@ -14,6 +14,16 @@ Execução de consultas SQL personalizadas<br>
 Carregamento progressivo de dados<br>
 Visualização organizada das informações<br>
 
+🛠 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+  
 🚀 Acesso
 
 🔗 https://faculdade-dados.infinityfree.me/
